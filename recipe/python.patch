@@ -1,0 +1,22 @@
+From 7c087adaad406bd8528c8254d95f827522933589 Mon Sep 17 00:00:00 2001
+From: Jan Janssen <jan-janssen@users.noreply.github.com>
+Date: Sun, 16 Feb 2025 08:02:03 +0100
+Subject: [PATCH] Update pyproject.toml
+
+---
+ pyproject.toml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/pyproject.toml b/pyproject.toml
+index ffa5aa3..9601e31 100644
+--- a/pyproject.toml
++++ b/pyproject.toml
+@@ -16,7 +16,7 @@ classifiers = [
+     "Programming Language :: Python :: 3",
+ ]
+ dynamic = ["version", "description"]
+-requires-python = "==2.7, >=3.8"
++requires-python = ">=3.8"
+ dependencies = [
+     "backports.functools_lru_cache; python_version<'2.9'",
+ ]
