@@ -1,0 +1,22 @@
+From e258777a0e096858a94205b441376e234104da69 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Jan=20Jan=C3=9Fen?= <janssen@mpie.de>
+Date: Sun, 16 Feb 2025 08:10:58 +0100
+Subject: [PATCH] version
+
+---
+ pyproject.toml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/pyproject.toml b/pyproject.toml
+index ffa5aa3..9601e31 100644
+--- a/pyproject.toml
++++ b/pyproject.toml
+@@ -16,7 +16,7 @@ classifiers = [
+     "Programming Language :: Python :: 3",
+ ]
+ dynamic = ["version", "description"]
+-requires-python = "==2.7, >=3.8"
++requires-python = ">=3.8"
+ dependencies = [
+     "backports.functools_lru_cache; python_version<'2.9'",
+ ]
