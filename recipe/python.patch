@@ -1,7 +1,7 @@
-From 30dbf7843a4945d911b8ff6796c54fcbfa69ed5d Mon Sep 17 00:00:00 2001
-From: Jan Janssen <jan-janssen@users.noreply.github.com>
-Date: Sun, 16 Feb 2025 07:34:26 +0100
-Subject: [PATCH] Update pyproject.toml
+From 33d82528d2d2688581031c5c17f8393cc8eaefc4 Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Jan=20Jan=C3=9Fen?= <janssen@mpie.de>
+Date: Sun, 16 Feb 2025 07:43:21 +0100
+Subject: [PATCH] patch
 
 ---
  pyproject.toml | 2 +-
